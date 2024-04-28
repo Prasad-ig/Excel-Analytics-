@@ -1,9 +1,9 @@
 # Excel Analyics of Atliq Hardware
- # Sales Report :
-# Project Objective:
-1. Create a [customer performance report](https://acrobat.adobe.com/id/urn:aaid:sc:AP:bb674907-ff59-4a3c-bbdb-e79213bbc52a).
+# Sales Report :
+# Objective:
+1. Create a [Customer Performance Report](https://acrobat.adobe.com/id/urn:aaid:sc:AP:bb674907-ff59-4a3c-bbdb-e79213bbc52a).
 
-2. Conduct a comprehensive comparison between [market performance and sales targets](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6a7f916d-5945-4ddd-a752-7b8081e48759).
+2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6a7f916d-5945-4ddd-a752-7b8081e48759).
 
 •	Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
