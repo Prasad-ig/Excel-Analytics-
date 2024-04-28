@@ -1,5 +1,5 @@
 # Excel Analyics of Atliq Hardware
- # Sales Report :<font size="8"> 
+ #<font size="8">Sales Report :
 # Project Objective:
 1. Create a customer performance report.
 2. Conduct a comprehensive comparison between market performance and sales targets
